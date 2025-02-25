@@ -1,4 +1,4 @@
-from pytest import fixture
+import pytest
 
 from src.model.tarjeta_de_credito import TarjetaDeCredito
 from src.model.compra import Compra
